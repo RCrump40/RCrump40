@@ -17,6 +17,6 @@
 
 
 
-[linkedin]: [www.linkedin.com/in/raiques-crump-90420ba0](https://www.linkedin.com/in/raiques-crump-90420ba0/)
+[linkedin]: [www.linkedin.com/in/rclcrump40](https://www.linkedin.com/in/rlcrump40/)
 
 
