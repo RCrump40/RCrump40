@@ -1,4 +1,4 @@
-<h1>Hello, my name is Raique. I am an IT Professional  an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hello, my name is Raiques. I am an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
