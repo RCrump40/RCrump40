@@ -7,9 +7,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
-<h2> Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects: In Progress </h2>
 
-<h2> Python Projects: </h2>
+<h2> Python Projects: In Progress </h2>
 
 
 <h2>Connect with me:</h2>
